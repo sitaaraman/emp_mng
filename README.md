@@ -18,7 +18,7 @@ Includes full CRUD for Country, State, and Employees with backend-only Country â
 
 ## How to Run
 1. Download or clone the project into `htdocs`
-2. Create database `emp_mngt`
+2. Create database `emp_mng`
 3. Import the SQL tables for country, state, employee
 4. Start Apache & MySQL in XAMPP
 5. Open in browser:
